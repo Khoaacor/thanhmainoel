@@ -130,4 +130,3 @@ $('#yes').click(function() {
         }
     })
 })
-
